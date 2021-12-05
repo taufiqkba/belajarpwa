@@ -1,0 +1,25 @@
+{
+"products":
+[
+{"id":1,"name":"Hawk, red-tailed","category":"Fuscia"},
+{"id":2,"name":"Bushpig","category":"Puce"},
+{"id":3,"name":"Glossy starling (unidentified)","category":"Pink"},
+{"id":4,"name":"Possum, common brushtail","category":"Teal"},
+{"id":5,"name":"Teal, hottentot","category":"Goldenrod"},
+{"id":6,"name":"Carmine bee-eater","category":"Purple"},
+{"id":7,"name":"Barbet, black-collared","category":"Orange"},
+{"id":8,"name":"Penguin, fairy","category":"Goldenrod"},
+{"id":9,"name":"Vine snake (unidentified)","category":"Fuscia"},
+{"id":10,"name":"Plover, blacksmith","category":"Teal"},
+{"id":11,"name":"Adouri (unidentified)","category":"Puce"},
+{"id":12,"name":"Gorilla, western lowland","category":"Turquoise"},
+{"id":13,"name":"Wallaby, whip-tailed","category":"Pink"},
+{"id":14,"name":"White-mantled colobus","category":"Orange"},
+{"id":15,"name":"House crow","category":"Pink"},
+{"id":16,"name":"Bustard, denham's","category":"Turquoise"},
+{"id":17,"name":"Pigeon, feral rock","category":"Khaki"},
+{"id":18,"name":"Squirrel, arctic ground","category":"Orange"},
+{"id":19,"name":"Vulture, black","category":"Fuscia"},
+{"id":20,"name":"Racer snake","category":"Yellow"}
+]
+}
