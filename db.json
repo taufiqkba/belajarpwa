@@ -1,25 +1,24 @@
 {
-"products":
-[
-{"id":1,"name":"Hawk, red-tailed","category":"Fuscia"},
-{"id":2,"name":"Bushpig","category":"Puce"},
-{"id":3,"name":"Glossy starling (unidentified)","category":"Pink"},
-{"id":4,"name":"Possum, common brushtail","category":"Teal"},
-{"id":5,"name":"Teal, hottentot","category":"Goldenrod"},
-{"id":6,"name":"Carmine bee-eater","category":"Purple"},
-{"id":7,"name":"Barbet, black-collared","category":"Orange"},
-{"id":8,"name":"Penguin, fairy","category":"Goldenrod"},
-{"id":9,"name":"Vine snake (unidentified)","category":"Fuscia"},
-{"id":10,"name":"Plover, blacksmith","category":"Teal"},
-{"id":11,"name":"Adouri (unidentified)","category":"Puce"},
-{"id":12,"name":"Gorilla, western lowland","category":"Turquoise"},
-{"id":13,"name":"Wallaby, whip-tailed","category":"Pink"},
-{"id":14,"name":"White-mantled colobus","category":"Orange"},
-{"id":15,"name":"House crow","category":"Pink"},
-{"id":16,"name":"Bustard, denham's","category":"Turquoise"},
-{"id":17,"name":"Pigeon, feral rock","category":"Khaki"},
-{"id":18,"name":"Squirrel, arctic ground","category":"Orange"},
-{"id":19,"name":"Vulture, black","category":"Fuscia"},
-{"id":20,"name":"Racer snake","category":"Yellow"}
+"products": [
+{"id":1,"name":"Otter, small-clawed","category":"Orange"},
+{"id":2,"name":"Arctic hare","category":"Aquamarine"},
+{"id":3,"name":"Lemur, ring-tailed","category":"Violet"},
+{"id":4,"name":"American Virginia opossum","category":"Purple"},
+{"id":5,"name":"Deer, roe","category":"Mauv"},
+{"id":6,"name":"Silver gull","category":"Orange"},
+{"id":7,"name":"Stork, painted","category":"Orange"},
+{"id":8,"name":"Francolin, swainson's","category":"Goldenrod"},
+{"id":9,"name":"Four-spotted skimmer","category":"Aquamarine"},
+{"id":10,"name":"Southern white-crowned shrike","category":"Violet"},
+{"id":11,"name":"Black-crowned night heron","category":"Puce"},
+{"id":12,"name":"Partridge, coqui","category":"Green"},
+{"id":13,"name":"Dusky rattlesnake","category":"Mauv"},
+{"id":14,"name":"Fox, north american red","category":"Yellow"},
+{"id":15,"name":"Squirrel, malabar","category":"Teal"},
+{"id":16,"name":"African jacana","category":"Yellow"},
+{"id":17,"name":"Wattled crane","category":"Crimson"},
+{"id":18,"name":"Cat, long-tailed spotted","category":"Puce"},
+{"id":19,"name":"Tapir, brazilian","category":"Crimson"},
+{"id":20,"name":"European red squirrel","category":"Indigo"}
 ]
 }
